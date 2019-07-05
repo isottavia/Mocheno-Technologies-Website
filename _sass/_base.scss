@@ -19,6 +19,16 @@
         -webkit-text-size-adjust: 100%;
     }
 
+    project {
+        font-family: $base-font-family;
+        font-size: $base-font-size;
+        line-height: $base-line-height;
+        font-weight: 300;
+        color: $text-color;
+        background-color: #d9f2d9 !important;
+        -webkit-text-size-adjust: 100%;
+    }
+
 /* Set Margin Bottom for Vertical Rhythm
  * ============================================== */
     h1, h2, h3, h4, h5, h6,
