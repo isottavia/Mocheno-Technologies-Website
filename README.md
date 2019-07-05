@@ -11,16 +11,10 @@ $ git clone
 Navigate to the root level of the code
 
 ```
-$ cd mediumish-theme-jekyll
+$ cd Mocheno-Technologies-Website
 ```
 
-Bundle the files
-
-```
-$ bundle
-```
-
-And run the server to test the site locally!
+Serve the website locally using Jekyll to test!
 
 ```
 $ jekyll serve --watch
