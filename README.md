@@ -5,7 +5,7 @@ Welcome to the source code for the Mòcheno Technologies corporate website built
 Clone the repository using the command
 
 ```
-$ git clone 
+$ git clone https://github.com/isottavia/Mocheno-Technologies-Website.git
 ```
 
 Navigate to the root level of the code
